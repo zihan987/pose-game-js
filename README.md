@@ -20,7 +20,7 @@ $ git clone https://github.com/zihan987/pose-game-js.git
 chrome://flags/#unsafely-treat-insecure-origin-as-secure
 ```
 
-输入部署的网址，可以允许http的全县设置，选择enable后chrome会自动重启。
+输入部署的网址，可以允许http的接入摄像头的权限，选择enable后chrome会自动重启。
 
 ### 部分体感操作
 
