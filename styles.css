@@ -1,0 +1,15 @@
+
+img{
+    height: 10%;
+    width: 10%;
+    transform: inherit;
+    transition: all 0.2s;
+}
+
+
+#videoContainer
+{
+    transform: rotateY(180deg);
+    -webkit-transform:rotateY(180deg); /* Safari and Chrome */
+    -moz-transform:rotateY(180deg); /* Firefox */
+}
