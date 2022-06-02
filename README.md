@@ -1,6 +1,7 @@
 # pose-game 
 
-在线体验：[vhq.zihanachai.com](vhq.zihanachai.com)
+在线体验：http://43.142.92.147/
+元宇宙上的体验地址：[vhq.zihanachai.com](vhq.zihanachai.com)
 
 代码直接下载到本地即可。
 
